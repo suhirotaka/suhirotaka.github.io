@@ -4,6 +4,6 @@
 
 ## Contents
 
-### [my GitHub repositories](github_repositories)
+### [GitHub repositories](github_repositories)
 
-### [my articles](article_contributions)
+### [articles](article_contributions)
