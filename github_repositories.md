@@ -62,15 +62,14 @@ Find Trump! randomly replaces an image in webpages to a Trump one. Players get a
 
 <br />
 
+## [suhirotaka/stopwatch-tab](https://github.com/suhirotaka/stopwatch-tab)
+Stopwatch Tab is a chrome extension which displays a stopwatch timer on Chrome browser’s tabs.
+<br />
+
 ## [body_movement_tracking](https://github.com/suhirotaka/body_movement_tracking)
 This is a body movement tracking app which is built with Processing.
 
 Colorful digital fluid flows as if following player’s body movement. You can feel comfortable as if playing with air.
-
-<br />
-
-## [suhirotaka/stopwatch-tab](https://github.com/suhirotaka/stopwatch-tab)
-Stopwatch Tab is a chrome extension which displays a stopwatch timer on Chrome browser’s tabs.
 
 <br />
 
