@@ -64,6 +64,7 @@ Find Trump! randomly replaces an image in webpages to a Trump one. Players get a
 
 ## [suhirotaka/stopwatch-tab](https://github.com/suhirotaka/stopwatch-tab)
 Stopwatch Tab is a chrome extension which displays a stopwatch timer on Chrome browser’s tabs.
+
 <br />
 
 ## [body_movement_tracking](https://github.com/suhirotaka/body_movement_tracking)
