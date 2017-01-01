@@ -1,4 +1,6 @@
-# suhirotaka's articles
+# my articles
+Here are a part of articles I contributed. You can see full lists at:
+[Qiita](http://qiita.com/suhirotaka/items)
 
 ### [フルスタックエンジニアであるということ](https://qiita.com/suhirotaka/items/598ccdd969b1fa628365)
 フルスタックエンジニアというと聞こえは良いけれど、実はただ器用貧乏を言い換えただけなのでは、という気が最近している。自称フルスタックエンジニアのはしくれとして、少し立ち止まって考えてみた。

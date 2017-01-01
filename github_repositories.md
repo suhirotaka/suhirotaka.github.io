@@ -1,4 +1,4 @@
-# suhirotaka's GitHub repositories
+# my GitHub repositories
 
 ## [suhirotaka/utility](https://github.com/suhirotaka/utility)
 my utility scripts collection for daily use
