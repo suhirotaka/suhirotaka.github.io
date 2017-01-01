@@ -25,7 +25,7 @@ my utility scripts collection for daily use
 
 <br />
 
-## [homebrew-utility](https://github.com/suhirotaka/homebrew-utility)
+## [suhirotaka/homebrew-utility](https://github.com/suhirotaka/homebrew-utility)
 Homebrew repository for [suhirotaka/utility](https://github.com/suhirotaka/utility)
 
 - [shell/ecs_login_by_service_name.sh](https://github.com/suhirotaka/utility/blob/master/README.md#item1)
@@ -67,7 +67,7 @@ Stopwatch Tab is a chrome extension which displays a stopwatch timer on Chrome b
 
 <br />
 
-## [body_movement_tracking](https://github.com/suhirotaka/body_movement_tracking)
+## [suhirotaka/body_movement_tracking](https://github.com/suhirotaka/body_movement_tracking)
 This is a body movement tracking app which is built with Processing.
 
 Colorful digital fluid flows as if following player’s body movement. You can feel comfortable as if playing with air.
