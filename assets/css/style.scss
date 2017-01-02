@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+header, nav, #banner {
+  position: absolute;
+}
 header h1 a {
   color: #f3f3f3;
 }
