@@ -3,11 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{% if page.title %} {{ page.title }} | {% endif %}Leap Day in Jekyll</title>
-    <link rel="stylesheet" href="assets/stylesheets/styles.css">
+    <title>{% if page.title %} {{ page.title }} | {% endif %}</title>
+    <link rel="stylesheet" href="/assets/css/style.css?v=46d177033d7da5a5f7af227e800ba75f519bed5c">
+<!--
     <link rel="stylesheet" href="assets/stylesheets/pygment_trac.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="assets/javascripts/main.js"></script>
+-->
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -16,8 +18,7 @@
   <body>
 
   <header>
-    <a href="">
-      <h1>Leap Day for Jekyll</h1>
-      <p>Theme built on GitHub Pages for all to use.</p>
+    <a href="/">
+      <h1>{% if page.title %} {{ page.title }} | {% endif %}</h1>
     </a>
   </header>
